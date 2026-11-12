@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="AIC">
+  <title>AI Driven Threats</title>
+
+  <conbody>
+    <p>AI systems are connected to the internet and are unreliable when it
+    comes to data security. If anything is connected to the internet that
+    means that the information put in there is in fact discoverable by threat
+    actors. This makes it even more important to ensure that you do not share
+    confidential information with AI. Always de-identify information before
+    adding it AI to ensure that information cannot be traced back to the
+    discussed party.</p>
+
+    <p>AI pulls from a lot of different places on the internet, meaning that
+    it really is not completely accurate all the time. Ensure that you fact
+    check any data that you use from AI.</p>
+
+    <p>Threat Actors also have access to AI and they use it to enhance their
+    own tools. This includes things like phishing attempts of OSINT
+    reconnaissance. This means that you need to be skeptical of
+    communications. Always independently confirm communications come from a
+    trusted source to avoid scams. These can include voice calls, video calls.
+    If you hear a loved one its not always them, so if you get an urgent
+    message especially ones that request money, independently confirm that the
+    request is legitimate.</p>
+  </conbody>
+</concept>

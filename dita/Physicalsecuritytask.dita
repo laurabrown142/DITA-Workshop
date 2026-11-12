@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="Physical Sec">
+  <title>Procedure for Protecting against Physical Security Issues</title>
+
+  <shortdesc>A list of policies to follow in order to protect your hardware
+  and software for physical security threats</shortdesc>
+
+  <taskbody>
+    <context>Physical security threats are an important concern when it comes
+    to cybersecurity. Physical access to your device can lead to data breaches
+    for both you and your institution.</context>
+
+    <steps>
+      <step>
+        <cmd>Be aware of your surroundings.</cmd>
+      </step>
+
+      <step>
+        <cmd>Do not leave your laptop unattended in public at any point.</cmd>
+      </step>
+
+      <step>
+        <cmd>Lock access to your devices when they are not in use.</cmd>
+      </step>
+
+      <step>
+        <cmd>Do not plug anything into your device unless you trust it
+        completely.</cmd>
+      </step>
+
+      <step>
+        <cmd>Keep any documentation that has your passwords in it in a
+        physically secure location.</cmd>
+      </step>
+
+      <step>
+        <cmd>Do not charge your device with a public USB port without a data
+        blocker.</cmd>
+      </step>
+
+      <step>
+        <cmd>Do not thro away your device without proper precautions.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

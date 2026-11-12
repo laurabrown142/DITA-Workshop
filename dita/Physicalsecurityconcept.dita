@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="psc">
+  <title>Protecting Againts Physical Security Breaches</title>
+
+  <conbody>
+    <p>If you leave your devices unattended while in public you increase the
+    risk of theft for your devices or access to your devices.</p>
+
+    <p>If you leave your devices in your office, lock it up when you leave.
+    Leaving it unlocked increases the risk of theft.</p>
+
+    <p>If you step away from your screen at any point, lock your device.
+    Leaving it unlocked allows the opportunity for someone else to use your
+    account.</p>
+
+    <p>People will often upload malware onto physical devices as a way to try
+    to get access to systems. If you install a thumb drive into your computer
+    and you do not trust it completely, there is a risk that it is a thumb
+    drive with malware on it.</p>
+
+    <p>Sometimes there are publicly available USB ports to charge your device.
+    Some threat actors hijack these outlets in order to upload malware or
+    download your data, so install a data blocker on your device to prevent
+    the transference of data, while allowing you to still charge your
+    device.</p>
+
+    <p>When getting rid of an old device, either store it in a safe location,
+    remove the encrypted harddrive, or go to a professional destruction
+    facility that can offer a certificate of destruction. This will protect
+    the data that was on these devices.</p>
+  </conbody>
+</concept>

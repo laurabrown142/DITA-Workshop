@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+"task.dtd">
+<task id="AIthreat">
+  <title>Recommendations when it comes to using AI</title>
+
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Do not share confidentail information with AI systems.</cmd>
+      </step>
+
+      <step>
+        <cmd>Deidentify any information before entering it into AI.</cmd>
+      </step>
+
+      <step>
+        <cmd>Remove any personally identifiable information to protect
+        privacy.</cmd>
+      </step>
+
+      <step>
+        <cmd>Fact check AI given information before using it</cmd>
+      </step>
+
+      <step>
+        <cmd>Independently verify digital communications and update your
+        devices.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="IRC">
+  <title>Incident Response</title>
+
+  <conbody>
+    <p>The organization that you function within needs to know that there may
+    have been a breach because a breach on your end may put other data at
+    risk. This will allow the institution to begin thier own incident response
+    plan to ensure the maximum amount of time to remediate.</p>
+
+    <p>If you had other tabs open at the time of the breach or if the
+    password/account breach had a password that you use with other
+    institutions you need to let them know so they can be alert for suspicous
+    activity from those accounts.</p>
+
+    <p>Changing the passwords immediately lowers the risk that the attackers
+    can get back into the system.</p>
+  </conbody>
+</concept>
