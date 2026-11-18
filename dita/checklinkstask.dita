@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="t_checking_links">
+  <title>Check Links Before You Click</title>
+
+  <shortdesc>Check a link or login page before you click it or sign
+  in.</shortdesc>
+
+  <taskbody>
+    <prereq>Have a computer that is ready for use.</prereq>
+
+    <context>Be sure to check any link in an email before clicking on it,
+    especially if the message asks you to sign in or provide personal
+    information.</context>
+
+    <steps>
+      <step>
+        <cmd>On a computer, hover over the link to see where it leads
+        to.</cmd>
+      </step>
+
+      <step>
+        <cmd>Compare the address to the sender and the text in the link.</cmd>
+      </step>
+
+      <step>
+        <cmd>Before signing into an NC State page, confirm the address starts
+        with shib.ncsu.edu.</cmd>
+      </step>
+    </steps>
+
+    <result>You now know whether an email link is safe to open. If it isn't,
+    don't click on it, and report it instead.</result>
+  </taskbody>
+</task>

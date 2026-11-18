@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="ncsunetworksreference">
+  <title>NC State Wireless Networks</title>
+
+  <shortdesc>This table provides information on NC State's three wireless
+  networks and who should use each one.</shortdesc>
+
+  <refbody>
+    <simpletable>
+      <sthead>
+        <stentry>Network</stentry>
+
+        <stentry>Encrypted?</stentry>
+
+        <stentry>Who it's for</stentry>
+      </sthead>
+
+      <strow>
+        <stentry>eduroam</stentry>
+
+        <stentry>Yes</stentry>
+
+        <stentry>Students, staff, and faculty</stentry>
+      </strow>
+
+      <strow>
+        <stentry>ncsu (Nomad)</stentry>
+
+        <stentry>No</stentry>
+
+        <stentry>Devices that can't use eduroam, such as smart TVs and game
+        consoles</stentry>
+      </strow>
+
+      <strow>
+        <stentry>ncsu-guest</stentry>
+
+        <stentry>Not stated</stentry>
+
+        <stentry>Campus visitors</stentry>
+      </strow>
+    </simpletable>
+
+    <section/>
+  </refbody>
+</reference>

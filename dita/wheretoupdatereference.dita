@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="wheretoupdatereference">
+  <title>Where to Find Updates</title>
+
+  <shortdesc>Information on where to find updates no matter what device you're
+  using.</shortdesc>
+
+  <refbody>
+    <simpletable>
+      <sthead>
+        <stentry>Devices</stentry>
+
+        <stentry>Where to find updates</stentry>
+      </sthead>
+
+      <strow>
+        <stentry>Windows 11</stentry>
+
+        <stentry>Start &gt; Settings &gt; Windows Update</stentry>
+      </strow>
+
+      <strow>
+        <stentry>Mac</stentry>
+
+        <stentry>Apple Menu &gt; System Settings &gt; General &gt; Software
+        Update</stentry>
+      </strow>
+
+      <strow>
+        <stentry>iPhone</stentry>
+
+        <stentry>Settings &gt; General &gt; Software Update</stentry>
+      </strow>
+
+      <strow>
+        <stentry>Android</stentry>
+
+        <stentry>Settings &gt; System &gt; Software Update (varies by phone
+        brand)</stentry>
+      </strow>
+
+      <strow>
+        <stentry>Google Chrome</stentry>
+
+        <stentry>More &gt; Help &gt; About Google Chrome</stentry>
+      </strow>
+    </simpletable>
+
+    <section/>
+  </refbody>
+</reference>

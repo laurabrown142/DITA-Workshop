@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="duomethodsreference">
+  <title>Duo Authentication Methods</title>
+
+  <shortdesc>This table provides information on the ways you can confirm your
+  identity with Duo.</shortdesc>
+
+  <refbody>
+    <section><simpletable>
+        <sthead>
+          <stentry>Method</stentry>
+
+          <stentry>What you need</stentry>
+        </sthead>
+
+        <strow>
+          <stentry>Duo Push</stentry>
+
+          <stentry>Smartphone with the Duo Mobile app</stentry>
+        </strow>
+
+        <strow>
+          <stentry>Duo Mobile passcode</stentry>
+
+          <stentry>Duo Mobile app</stentry>
+        </strow>
+
+        <strow>
+          <stentry>Text message passcode</stentry>
+
+          <stentry>Phone that can receive texts</stentry>
+        </strow>
+
+        <strow/>
+      </simpletable></section>
+  </refbody>
+</reference>

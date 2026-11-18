@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="t_enrolling_eduroam">
+  <title>Enroll a Device in eduroam</title>
+
+  <shortdesc>Enroll your device in eduroam, which is NC State's encrypted
+  wireless network.</shortdesc>
+
+  <taskbody>
+    <prereq>Have your Unity ID and password ready, and be sure to use the
+    device you want to connect. Also make sure the device is connected to the
+    internet, but not through the ncsu-guest network.</prereq>
+
+    <steps>
+      <step>
+        <cmd>On your device, go to wifi.ncsu.edu.eduroam and download NC
+        State's configuration tool.</cmd>
+      </step>
+
+      <step>
+        <cmd>Open the tool and follow its instructions for your device.</cmd>
+
+        <info>For step-by-step help, see NC State’s eduroam page in Related
+        links.</info>
+      </step>
+
+      <step>
+        <cmd>Connect to eduroam in your device's WiFi settings.</cmd>
+      </step>
+    </steps>
+
+    <result>Your device now automatically connects on campus and at any
+    participating institutions.</result>
+
+    <postreq>Re-enroll your device every five years. You'll receive an email
+    when it's time.</postreq>
+  </taskbody>
+
+  <related-links format="html" scope="external">
+    <link href="https://wifi.ncsu.edu/eduroam/">
+      <linktext>NC State: eduroam</linktext>
+    </link>
+  </related-links>
+</task>

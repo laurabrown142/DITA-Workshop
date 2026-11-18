@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="t_installing_updates">
+  <title>Install Software Updates</title>
+
+  <shortdesc>Install software updates on your computer, phone, and
+  browser.</shortdesc>
+
+  <taskbody>
+    <context>Install updates once you see a notification on your computer,
+    phone, or web browser. On university-owned computers, your local IT staff
+    may install some updates for you, but you may still need to restart your
+    computer to finish them.</context>
+
+    <steps>
+      <step>
+        <cmd>Open the update settings of the device you are using.</cmd>
+
+        <info>To find them on your device, see <xref
+        href="wheretoupdatereference.dita">Where to find
+        updates.</xref></info>
+      </step>
+
+      <step>
+        <cmd>Check if there are any available updates.</cmd>
+      </step>
+
+      <step>
+        <cmd>Install any available updates that were found.</cmd>
+      </step>
+
+      <step>
+        <cmd>Restart your device if asked to do so.</cmd>
+
+        <info audience="staff">If there are issues with an update on a
+        university computer, contact your local IT support.</info>
+      </step>
+    </steps>
+
+    <result>Your device has been updated with the most recent security
+    fixes.</result>
+  </taskbody>
+</task>

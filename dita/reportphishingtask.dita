@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="t_report_phishing">
+  <title>Report a Phishing Email</title>
+
+  <shortdesc>Report a suspicious phishing email to campus OIT on
+  Gmail.</shortdesc>
+
+  <taskbody>
+    <context>Report any suspicious email using Gmail on a computer. Your
+    report goes straight to OIT's Cybersecurity Operations team, which helps
+    protect you and the rest of the university.</context>
+
+    <steps>
+      <step>
+        <cmd>On a computer, open the suspicious email.</cmd>
+      </step>
+
+      <step>
+        <cmd>Select <b>More </b>(three vertical dots) at the top right of the
+        message.</cmd>
+      </step>
+
+      <step>
+        <cmd>Select <b>Report Phishing</b>.</cmd>
+
+        <info/>
+      </step>
+
+      <step>
+        <cmd>Select <b>Report Phishing Button </b>to confirm.</cmd>
+
+        <info><image href="images/fixed%20confirmation.png">
+            <alt>Gmail's report phishing confirmation button.</alt>
+          </image></info>
+
+        <stepresult>The email is reported and moved to your Spam folder.
+        </stepresult>
+      </step>
+    </steps>
+
+    <postreq>For help, contact the NC State Help Desk through the IT Service
+    Portal or call 919.515.HELP (4357).</postreq>
+  </taskbody>
+
+  <related-links>
+    <link format="html" href="https://cybersecurity.ncsu.edu/report-phishing/"
+          scope="external">
+      <linktext>NC State: Report Phishing</linktext>
+    </link>
+  </related-links>
+</task>

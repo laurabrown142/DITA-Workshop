@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="phishingwarningsignsreference">
+  <title>Phishing Warning Signs</title>
+
+  <shortdesc>This table provides information on what warning signs to look for
+  that mean an email may be a scam.</shortdesc>
+
+  <refbody>
+    <section><simpletable>
+        <sthead>
+          <stentry>Warning sign</stentry>
+
+          <stentry>What it looks like</stentry>
+        </sthead>
+
+        <strow>
+          <stentry>Any unfamiliar or slightly misspelled sender
+          addresses</stentry>
+
+          <stentry>An address that looks official but has a small misspelling.
+          Even an @ncsu.edu address can be phishing.</stentry>
+        </strow>
+
+        <strow>
+          <stentry>Any urgent or threatening language</stentry>
+
+          <stentry>Subject lines that say things are on hold or accounts will
+          be closed like "We'll close your NCSU ID"</stentry>
+        </strow>
+
+        <strow>
+          <stentry>Any request for your login, financial, or personal
+          information</stentry>
+
+          <stentry>Asking for your password or two-factor bypass codes. NC
+          State IT will never ask for these.</stentry>
+        </strow>
+
+        <strow>
+          <stentry>Any link that doesn't lead you to where it says it
+          will</stentry>
+
+          <stentry>Hovering shows a different address, or a login page doesn't
+          start with shib.ncsu.edu.</stentry>
+        </strow>
+
+        <strow audience="staff">
+          <stentry>Any unexpected offers</stentry>
+
+          <stentry>A free retirement benefits consultation, or a payroll or
+          pension review.</stentry>
+        </strow>
+
+        <strow/>
+      </simpletable></section>
+  </refbody>
+</reference>

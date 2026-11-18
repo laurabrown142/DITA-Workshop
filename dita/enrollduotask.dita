@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="t_enrolling_duo">
+  <title>Enroll a Phone in Duo</title>
+
+  <shortdesc>Enroll your phone in Duo that way you can confirm your identity
+  when you sign in.</shortdesc>
+
+  <taskbody>
+    <prereq>Make sure to have a computer and your cell phone with
+    you.</prereq>
+
+    <context>All NC State employees must use Duo to sign in to university
+    services such as MyPack Portal.</context>
+
+    <steps>
+      <step>
+        <cmd>Go to the Duo enrollment page.</cmd>
+      </step>
+
+      <step>
+        <cmd>Sign in with your Unity ID and password. </cmd>
+      </step>
+
+      <step>
+        <cmd>Enter your cell phone number.</cmd>
+
+        <info audience="staff">Use your personal cell phone number, not your
+        office phone number.</info>
+      </step>
+
+      <step>
+        <cmd>Install Duo Mobile on your phone.</cmd>
+      </step>
+
+      <step>
+        <cmd>Scan the barcode on your screen with the Duo Mobile app.</cmd>
+      </step>
+    </steps>
+
+    <result>Your phone is enrolled in Duo. The next time you sign in to a
+    university service, Duo will ask you to confirm the sign-in on your phone.
+    </result>
+  </taskbody>
+</task>

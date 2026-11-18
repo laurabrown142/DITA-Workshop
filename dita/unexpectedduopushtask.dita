@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="t_unexpected_push">
+  <title>Respond to an Unexpected Duo Push</title>
+
+  <shortdesc>Deny and report a Duo Push request you didn't start.</shortdesc>
+
+  <taskbody>
+    <context audience="staff">Do this when you receive a Duo Push notification
+    on your phone that you didn't start. An unexpected request usually means
+    someone else knows your password and is trying to sign in to your
+    account.</context>
+
+    <steps>
+      <step>
+        <cmd>Open the Duo Mobile app and select
+        <uicontrol>Deny</uicontrol>.</cmd>
+
+        <info><note type="important"><p>Never approve a request you didn't
+        start.</p></note></info>
+      </step>
+
+      <step>
+        <cmd>If prompted, select <uicontrol>Report</uicontrol>.</cmd>
+      </step>
+
+      <step>
+        <cmd>Change your Unity password immediately.</cmd>
+      </step>
+
+      <step>
+        <cmd>Contact the NC State OIT Help Desk.</cmd>
+
+        <info>For help, contact the NC State Help Desk through the IT Service
+        Portal or call 919.515.HELP (4357).</info>
+      </step>
+    </steps>
+
+    <result>The sign-in attempt is denied and reported, and your new password
+    keeps the other person out of your account.</result>
+  </taskbody>
+</task>
