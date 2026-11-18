@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="VPNHub">
+  <title>Connecting to the NC State VPN Hub</title>
+
+  <taskbody>
+    <steps-informal><p>NC State provides a virtual private network (VPN)
+    connection through the Cisco Secure Client software. A VPN connection is
+    typically required when an individual may access sensitive information or
+    on-campus resources from an off-campus connection. To download and install
+    Cisco Secure Client to your computer, please select your operating system
+    or device below.</p><ul>
+        <li>Windows 10 or 11</li>
+
+        <li>macOS 11 or Newer</li>
+
+        <li>Linux (via OpenConnect)</li>
+
+        <li>ChromeOS</li>
+
+        <li>Android</li>
+      </ul></steps-informal>
+  </taskbody>
+</task>

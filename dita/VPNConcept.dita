@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<concept id="Untitled">
+  <title>What is a VPN?</title>
+
+  <shortdesc>Defining a VPN</shortdesc>
+
+  <conbody>
+    <steps-informal>
+      <p>A Virtual Private Network (VPN) is a secured private network
+      connection built on top of a public network like the internet. This
+      means your ISP (internet service provider) will not be able to sell your
+      entire browsing history to the highest bidder.</p>
+
+      <p>If you are working with any sensitive data (student records,
+      financial information) or email which passes sensitive data via
+      conversations, you are required to either connect to Eduroam or the NC
+      State VPN.</p>
+    </steps-informal>
+  </conbody>
+</concept>
