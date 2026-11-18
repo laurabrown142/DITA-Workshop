@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="DataStewards">
+  <title>Data Stewards</title>
+
+  <conbody>
+    <p>Data stewards are appointed by data trustees to oversee the data
+    governance of large logical groupings of data based on the various types
+    or functions of university operations. They ensure that appropriate data
+    governance coverage exists over university data at NC StateData stewards
+    are responsible and accountable for the confidentiality, integrity and
+    availability of university data categories and elements within their
+    assigned data domain or subject area.</p>
+  </conbody>
+</concept>

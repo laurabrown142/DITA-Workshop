@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="???">
+  <title>Data Classification Levels</title>
+
+  <refbody>
+    <refsyn>These groupings of data are given classification levels to inform
+    Data Users of the appropriate way to access, handle, and protect data
+    according to factors including but not limited to data security, privacy,
+    regulatory compliance, data governance, and the operational use of
+    data.</refsyn>
+
+    <table>
+      <tgroup cols="2">
+        <colspec colwidth="282*"/>
+
+        <colspec colwidth="718*"/>
+
+        <thead>
+          <row>
+            <entry valign="top">Data Classification Types</entry>
+
+            <entry valign="top">Meaning</entry>
+          </row>
+        </thead>
+
+        <tbody>
+          <row>
+            <entry>Ultra-Sensitive Data (Purple)</entry>
+
+            <entry>Data where unauthorized disclosure or loss poses an
+            exceptionally high risk or impact to the university or its
+            affiliates, or where specific data categories require special
+            privileged access management to support the university’s ability
+            to prevent unauthorized data modification, use, or
+            destruction.</entry>
+          </row>
+
+          <row>
+            <entry>Highly-Sensitive Data (Red)</entry>
+
+            <entry>Highly Sensitive Data includes data where unauthorized
+            disclosure or loss poses a high risk or impact to the university
+            or its affiliates. Authorized users of this data are responsible
+            for managing data confidentiality, integrity, and availability to
+            prevent unauthorized data modification, use, or
+            destruction.</entry>
+          </row>
+
+          <row>
+            <entry>Moderately Sensitive Data (Yellow)</entry>
+
+            <entry>Moderately Sensitive Data includes data where unauthorized
+            disclosure or loss poses a moderate to low risk or impact to the
+            university or its affiliates. Authorized users of this data are
+            responsible for managing data confidentiality, integrity, and
+            availability to prevent unauthorized data modification, use, or
+            destruction.</entry>
+          </row>
+
+          <row>
+            <entry>Not Sensitive Data (Yellow)</entry>
+
+            <entry>Not-Sensitive Data includes data where unauthorized
+            disclosure or loss poses a low risk or impact to the university or
+            its affiliates. This information may be disclosed to individuals
+            regardless of their university affiliation. Minimal security
+            measures are needed to control the unauthorized modification, use,
+            or destruction of this data.</entry>
+          </row>
+
+          <row>
+            <entry>Data Yet to be Classified</entry>
+
+            <entry>Data Yet to be Classified refers to data that is created or
+            collected within the university’s data environment, requires
+            classification in order to support associated business processes,
+            and has not been classified by the applicable Data Steward(s).
+            This data should be controlled, at a minimum, as purple/ultra
+            sensitive until final classification is assigned.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+
+    <section><title/><p/></section>
+  </refbody>
+</reference>

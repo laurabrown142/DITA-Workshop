@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="ProtectedHealth">
+  <title>Protected Health Info</title>
+
+  <taskbody>
+    <steps-informal><p/></steps-informal>
+  </taskbody>
+</task>
