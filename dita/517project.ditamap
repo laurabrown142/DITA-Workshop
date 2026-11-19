@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"map.dtd">
+<map>
+  <title>Document Map</title>
+
+  <topicref href="Strongpasswordtask.dita" type="task">
+    <topicref href="Strongpasswordconcept.dita" type="concept"/>
+
+    <topicref href="Substiutionreference.dita" type="reference"/>
+  </topicref>
+
+  <topicref href="Physicalsecuritytask.dita" type="task">
+    <topicref href="Physicalsecurityconcept.dita" type="concept"/>
+  </topicref>
+
+  <topicref href="incidentresponsetask.dita" type="task">
+    <topicref href="incidentresponseconcept.dita" type="concept"/>
+  </topicref>
+
+  <topicref href="AIthreatstask.dita" type="task">
+    <topicref href="AIthreatconcept.dita" type="concept"/>
+
+    <topicref href="De-identifyreference.dita" type="reference"/>
+  </topicref>
+</map>
