@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="ComChaSub">
+  <title>Common Character Substitutions</title>
+
+  <refbody>
+    <refsyn/>
+
+    <section><p>A: @ 4</p><p>B: 8 13</p><p>E : 3</p><p>G: 6 9 </p><p>I : 1 !
+    |</p><p>L: 1 |</p><p>O: 0</p><p>S: $ 5</p><p>T: 7 +</p><p>Z:
+    2</p></section>
+  </refbody>
+</reference>

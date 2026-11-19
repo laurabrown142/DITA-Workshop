@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="De-identify">
+  <title>De-identification</title>
+
+  <refbody>
+    <refsyn/>
+
+    <section><p>De-identification is the process of removing or altering
+    personally identifiable information so that individuals or institutions
+    cannot easily be identified. Since AI is not secure it's highly important
+    that information is de-identified when entering it into any AI model.</p>
+    <p audience="faculty">When It comes to students data privacy its essential
+    to ensure that any information about the student is removed. Ensure that
+    all names, nicknames and initials have been removed. Confirm that any
+    information like student Id number, email address, phone number, and
+    street address have been removed. Additionally dates like birth dates or
+    enrollment dates should also be removed or replaced with a random
+    number.</p></section>
+  </refbody>
+</reference>
