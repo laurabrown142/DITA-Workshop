@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN"
+"glossgroup.dtd">
+<glossgroup id="Gloss">
+  <title/>
+
+  <glossentry id="MFA">
+    <glossterm>MultiFactor Authentication</glossterm>
+
+    <glossdef>Requiring two or more different kinds of proof to sign
+    in.</glossdef>
+  </glossentry>
+
+  <glossentry id="OSINT">
+    <glossterm>OSINT</glossterm>
+
+    <glossdef>Open-Source Intelligence. This is the practice of collecting,
+    analyzing, and verifying publicly available information about an
+    institution.</glossdef>
+  </glossentry>
+
+  <glossentry id="Malware">
+    <glossterm>Malware</glossterm>
+
+    <glossdef>This refers to any malicious software, which is any intrusive
+    code or program that is designed to breach, damage, disrupt, or steal data
+    from digital systems.</glossdef>
+  </glossentry>
+
+  <glossentry id="Data Blocker">
+    <glossterm>Data Blocker</glossterm>
+
+    <glossdef>a USB adaptor that allows a device to charge from a port while
+    preventing the transfer of malware installation over USB
+    connection.</glossdef>
+  </glossentry>
+
+  <glossentry id="EncHD">
+    <glossterm>Encrypted Hard Drive</glossterm>
+
+    <glossdef>A storage drive that encrypts the data on it (scrambles the
+    information using an algorithim) and can only be unlocked with the proper
+    credentials.</glossdef>
+  </glossentry>
+</glossgroup>
