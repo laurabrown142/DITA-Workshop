@@ -7,8 +7,7 @@
   <glossentry id="MFA">
     <glossterm>MultiFactor Authentication</glossterm>
 
-    <glossdef>Requiring two or more different kinds of proof to sign
-    in.</glossdef>
+    <glossdef>Requiring two or more different kinds of proof to sign in.</glossdef>
   </glossentry>
 
   <glossentry id="OSINT">
