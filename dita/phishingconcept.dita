@@ -4,7 +4,27 @@
 <concept id="phishingconcept">
   <title>Phishing</title>
 
+  <shortdesc>Learn how phishing scams try to steal your login, financial, or
+  university information.</shortdesc>
+
   <conbody>
-    <p/>
+    <p>Phishing is a scam that tries to trick you into clicking a damaging
+    link or giving away personal or university information.Phishing scammers
+    try to get you to click links that download harmful software or send you
+    to fake websites. Even just one compromised NC State account can
+    jeopardize the entire university.</p>
+
+    <section><title>Phishing Beyond Email</title><p>Phishing can come through
+    email, text messages, shared Google Docs, and even calendar
+    invites.</p><p><xref href="phishingwarningsignsreference.dita">To spot a
+    scam, see Phishing warning signs.</xref></p></section>
+
+    <section audience="staff"><title>Scams That Target
+    Employees</title><p>Common scams that are aimed at the campus community
+    include university account issues and payroll and pension review
+    scams.</p><p>OIT has warned employees about a fake offer for a free
+    retirement benefits consultation.</p><p><xref audience="staff"
+    href="reportphishingtask.dita">If you receive one, report
+    it.</xref></p></section>
   </conbody>
 </concept>
