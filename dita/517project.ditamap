@@ -36,7 +36,8 @@
     <topicref href="DataClassificationReference" type="reference"/>
   </topicref>
 
-  <topicref href="OnlineSafetyTask" type="task"/>
+  <topicref href="DataSecurityTrainingTask" type="task">
+<topicref href="DataSecurityTrainingConcept type="concept">
 
   <topicref href="DataBreachTask" type="task">
     <topicref href="DataClassifcationReference" type="task"/>
