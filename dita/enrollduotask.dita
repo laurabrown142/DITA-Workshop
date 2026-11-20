@@ -20,14 +20,14 @@
       </step>
 
       <step>
-        <cmd>Sign in with your Unity ID and password. </cmd>
+        <cmd>Sign in with your Unity ID and password.</cmd>
       </step>
 
       <step>
         <cmd>Enter your cell phone number.</cmd>
 
-        <info audience="staff">Use your personal cell phone number, not your
-        office phone number.</info>
+        <info audience="staff">Use a cell phone number that can receive text
+        messages.</info>
       </step>
 
       <step>
@@ -40,7 +40,20 @@
     </steps>
 
     <result>Your phone is enrolled in Duo. The next time you sign in to a
-    university service, Duo will ask you to confirm the sign-in on your phone.
-    </result>
+    university service, Duo will ask you to confirm the sign-in on your
+    phone.</result>
   </taskbody>
+
+  <related-links format="html" scope="external">
+    <link href="https://intranet.dasa.ncsu.edu/division-centralized-services/hr/training/dasa-connect/tech-jump-start/">
+      <linktext>NC State DASA: Tech Jump Start </linktext>
+    </link>
+
+    <link format="html"
+          href="https://ced.ncsu.edu/college-resources/edit/2-factor-authentication/"
+          scope="external">
+      <linktext>NC State College of Education: 2-Factor
+      Authentication</linktext>
+    </link>
+  </related-links>
 </task>

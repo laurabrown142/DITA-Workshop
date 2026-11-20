@@ -4,7 +4,23 @@
 <concept id="mfaconcept">
   <title>Multi-Factor Authentication</title>
 
+  <shortdesc>Learn how multi-factor authentication protects your account even
+  if your password is stolen.</shortdesc>
+
   <conbody>
-    <p/>
+    <p>Multi-factor authentication is an extra sign-in step for added
+    security, so even if someone steals your password they can't sign in
+    without your second device.</p>
+
+    <section><title>How Duo Protects University Systems</title><p>Duo adds a
+    second step to NC State services like MyPack Portal and
+    WolfWare.</p><p>You confirm by approving a push notification, entering a
+    code from the app, or entering a code that is sent to you via
+    text.</p><xref href="duomethodsreference.dita">For details, see Duo
+    authentication methods.</xref></section>
+
+    <section audience="staff"><title>Why Staff Are Required to Use
+    It</title><p>All NC State employees are required to use Duo because they
+    have access to more sensitive data and systems.</p></section>
   </conbody>
 </concept>
