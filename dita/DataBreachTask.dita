@@ -5,6 +5,7 @@
   <title>Data Breach</title>
 
   <taskbody>
-    <steps-informal><p/></steps-informal>
+    <prereq><p>Information about immediate incident response is provided in
+    <xref href="incidentresponsetask.dita"/> .</p></prereq>
   </taskbody>
 </task>
