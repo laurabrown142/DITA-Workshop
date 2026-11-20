@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="DataSecurityTrainingTask">
+  <title>NC State Data Security Training</title>
+
+  <taskbody>
+    <steps-informal><p>The university’s annual Data Security Training is an
+    easy way for employees to learn to identify and prevent cyberattacks. All
+    employees, including student employees and unpaid appointments, must
+    complete the training before Friday, Jan. 31, 2025.</p></steps-informal>
+  </taskbody>
+</task>
