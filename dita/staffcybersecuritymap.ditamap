@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"map.dtd">
+<map>
+  <title>Cybersecurity for NC State Staff</title>
+
+  <topicref href="mfaconcept.dita">
+    <topicref href="enrollduotask.dita"/>
+
+    <topicref href="unexpectedduopushtask.dita"/>
+
+    <topicref href="duomethodsreference.dita"/>
+  </topicref>
+
+  <topicref href="phishingconcept.dita">
+    <topicref href="checklinkstask.dita"/>
+
+    <topicref href="reportphishingtask.dita"/>
+
+    <topicref href="phishingwarningsignsreference.dita"/>
+  </topicref>
+
+  <topicref href="securewificoncept.dita">
+    <topicref href="enrolleduroamtask.dita"/>
+
+    <topicref href="ncsunetworksreference.dita"/>
+  </topicref>
+
+  <topicref href="softwareupdatesconcept.dita">
+    <topicref href="installupdatestask.dita"/>
+
+    <topicref href="wheretoupdatereference.dita"/>
+  </topicref>
+</map>
