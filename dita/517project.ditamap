@@ -23,4 +23,22 @@
 
     <topicref href="De-identifyreference.dita" type="reference"/>
   </topicref>
+
+<topicref href="VPNTask" type="task">
+    <topicref href="VPNConcept" type="concept"/>
+  </topicref>
+
+  <topicref href="DataClassificationTask" type="task">
+    <topicref href="DataTrusteesConcept" type="concept"/>
+
+    <topicref href="DataStewardsConcept" type="concept"/>
+
+    <topicref href="DataClassificationReference" type="reference"/>
+  </topicref>
+
+  <topicref href="OnlineSafetyTask" type="task"/>
+
+  <topicref href="DataBreachTask" type="task">
+    <topicref href="DataClassifcationReference" type="task"/>
+  </topicref>
 </map>
