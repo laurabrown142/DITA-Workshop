@@ -4,7 +4,28 @@
 <concept id="softwareupdatesconcept">
   <title>Software Updates</title>
 
+  <shortdesc>Learn why installing updates right away keeps your devices as
+  well as your university data safe.</shortdesc>
+
   <conbody>
-    <p/>
+    <p>Software updates fix problems in your operating system, apps, and web
+    browser. Many updates fix issues such as security flaws, so installing
+    them as soon as possible is one of the simplest ways to protect your
+    devices and the university data you work with.</p>
+
+    <section><title>Why Updates Matter</title><p>Updates include security
+    fixes for the newest kinds of attacks. Every day you put off an update,
+    your device stays vulnerable.</p><note type="tip"><p>Turn on automatic
+    updates wherever your device offers them, and install updates right when
+    you see a notification.</p></note><p><xref
+    href="installupdatestask.dita">To install updates, see Install software
+    updates.</xref></p></section>
+
+    <section audience="staff"><title>University-owned and Personal
+    Devices</title><p>Who installs updates depends on the device.</p><p>On a
+    computer owned by the university, your local IT staff may install updates
+    for you. You may still need to restart your computer to finish installing
+    them.</p><p>On your personal device like your phone, tablet, or computer,
+    you are responsible for installing updates yourself.</p></section>
   </conbody>
 </concept>
