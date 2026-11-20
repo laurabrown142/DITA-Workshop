@@ -24,8 +24,6 @@
 
       <step>
         <cmd>Select <b>Report Phishing</b>.</cmd>
-
-        <info/>
       </step>
 
       <step>
@@ -35,8 +33,8 @@
             <alt>Gmail's report phishing confirmation button.</alt>
           </image></info>
 
-        <stepresult>The email is reported and moved to your Spam folder.
-        </stepresult>
+        <stepresult>The email is reported and moved to your Spam
+        folder.</stepresult>
       </step>
     </steps>
 
