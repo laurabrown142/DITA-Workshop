@@ -4,7 +4,25 @@
 <concept id="securewificoncept">
   <title>Secure Wireless Networks</title>
 
+  <shortdesc>Learn the difference between secure and unsecured wireless
+  networks.</shortdesc>
+
   <conbody>
-    <p/>
+    <p>Secure networks encode the information sent between your device and the
+    network so others can't read it. Unsecured networks do not do this.</p>
+
+    <section><title>NC State's Wireless Networks</title><p>eduroam is the
+    preferred network for staff because it has a secured, encrypted
+    connection.</p><p>ncsu (Nomad) is unsecured and unencrypted and is meant
+    for devices like smart TVs and game consoles.</p><p><xref
+    href="ncsunetworksreference.dita">To compare all networks, see NC State
+    wireless networks.</xref></p></section>
+
+    <section audience="staff"><title>Working Off Campus</title><p>eduroam also
+    works at participating institutions, like other universities during
+    conferences, without needing guest access.</p><p>Staff must use the NC
+    State VPN with two-factor authentication to reach certain campus resources
+    while off campus, such as WolfPrint and campus file
+    services.</p></section>
   </conbody>
 </concept>
