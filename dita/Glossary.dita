@@ -7,7 +7,7 @@
   <glossentry id="MFA">
     <glossterm>MultiFactor Authentication</glossterm>
 
-    <glossdef>Requiring two or more different kinds of proof to sign in.</glossdef>
+    <glossdef>An extra sign-in step for added security, such as the approval of a notification on your phone. NC State uses Duo for this process. </glossdef>
   </glossentry>
 
   <glossentry id="OSINT">
@@ -41,4 +41,20 @@
     information using an algorithim) and can only be unlocked with the proper
     credentials.</glossdef>
   </glossentry>
+
+<glossentry id="Phishing">
+  <glossterm>Phishing</glossterm>
+  <glossdef> A scam that can happen through email, text, a shared document, or even calender invites that tries to trick 
+you into clicking a damaging link or providing personal or university information. </glossdef>
+</glossentry>
+
+<glossentry id="softupdate">
+  <glossterm>Software Update</glossterm>
+<glossdef>An updated version of your operating system, app, or browser that is meant to fix problems such as security flaws that attackers could use.</glossdef>
+</glossentry>
+
+<glossentry id="wifi">
+  <glossterm><Secure Wifi/glossterm>
+<glossdef>A wireless neetword that encodes the information sent between your device and the network so that others are unable to read it. NC Stat'es version of a secure netowrk is eduroam.</glossdef>
+</glossentry>
 </glossgroup>
