@@ -31,4 +31,43 @@
 
     <topicref href="wheretoupdatereference.dita"/>
   </topicref>
+ <topicref href="Strongpasswordtask.dita" type="task">
+    <topicref href="Strongpasswordconcept.dita" type="concept"/>
+
+    <topicref href="Substiutionreference.dita" type="reference"/>
+  </topicref>
+
+  <topicref href="Physicalsecuritytask.dita" type="task">
+    <topicref href="Physicalsecurityconcept.dita" type="concept"/>
+  </topicref>
+
+  <topicref href="incidentresponsetask.dita" type="task">
+    <topicref href="incidentresponseconcept.dita" type="concept"/>
+  </topicref>
+
+  <topicref href="AIthreatstask.dita" type="task">
+    <topicref href="AIthreatconcept.dita" type="concept"/>
+
+    <topicref href="De-identifyreference.dita" type="reference"/>
+  </topicref>
+
+<topicref href="VPNTask" type="task">
+    <topicref href="VPNConcept" type="concept"/>
+  </topicref>
+
+  <topicref href="DataClassificationTask" type="task">
+    <topicref href="DataTrusteesConcept" type="concept"/>
+
+    <topicref href="DataStewardsConcept" type="concept"/>
+
+    <topicref href="DataClassificationReference" type="reference"/>
+  </topicref>
+
+  <topicref href="DataSecurityTrainingTask" type="task">
+<topicref href="DataSecurityTrainingConcept" type="concept"/>
+</topicref>
+
+  <topicref href="DataBreachTask" type="task">
+    <topicref href="DataClassifcationReference" type="task"/>
+  </topicref>
 </map>
