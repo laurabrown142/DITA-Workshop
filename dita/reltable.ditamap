@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"map.dtd">
+<map>
+  <title>Cybersecurity Relationship Table</title>
+
+  <reltable>
+    <relheader>
+      <relcolspec type="concept"/>
+
+      <relcolspec type="task"/>
+
+      <relcolspec type="reference"/>
+    </relheader>
+
+    <relrow>
+      <relcell>
+        <topicref href="mfaconcept.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="enrollduotask.dita"/>
+
+        <topicref href="unexpectedduopushtask.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="duomethodsreference.dita" linking="targetonly"/>
+      </relcell>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="phishingconcept.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="checklinkstask.dita"/>
+
+        <topicref href="reportphishingtask.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="phishingwarningsignsreference.dita" linking="none"/>
+      </relcell>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="softwareupdatesconcept.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="installupdatestask.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="wheretoupdatereference.dita" linking="targetonly"/>
+      </relcell>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="securewificoncept.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="enrolleduroamtask.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="ncsunetworksreference.dita" linking="targetonly"/>
+      </relcell>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="AIthreatconcept.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="AIthreatstask.dita"/>
+      </relcell>
+
+      <relcell/>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="Incidentresponseconcept.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="Incidentresponsetask.dita"/>
+
+        <topicref href="DataBreachTask.dita"/>
+      </relcell>
+
+      <relcell/>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="Physicalsecurityconcept.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="Physicalsecuritytask.dita"/>
+      </relcell>
+
+      <relcell/>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="Strongpasswordconcept.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="Strongpasswordtask.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="Substiutionreference.dita"/>
+      </relcell>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="VPNConcept.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="VPNTask.dita"/>
+      </relcell>
+
+      <relcell/>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="DataSecurityTrainingConcept.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="DataSecurityTrainingTask.dita"/>
+      </relcell>
+
+      <relcell/>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="phishingconcept.dita"/>
+
+        <topicref href="AIthreatconcept.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="checklinkstask.dita"/>
+
+        <topicref href="OnlineSafetyTask.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="phishingwarningsignsreference.dita"/>
+      </relcell>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="UnityIdConcept.dita"/>
+
+        <topicref href="mfaconcept.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="enrollduotask.dita"/>
+      </relcell>
+
+      <relcell/>
+    </relrow>
+
+    <relrow>
+      <relcell/>
+
+      <relcell>
+        <topicref href="unexpectedduopushtask.dita"/>
+
+        <topicref href="Strongpasswordtask.dita"/>
+      </relcell>
+
+      <relcell/>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="Incidentresponseconcept.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="reportphishingtask.dita"/>
+
+        <topicref href="unexpectedduopushtask.dita"/>
+      </relcell>
+
+      <relcell/>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="securewificoncept.dita"/>
+
+        <topicref href="VPNConcept.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="VPNTask.dita"/>
+      </relcell>
+
+      <relcell/>
+    </relrow>
+
+    <relrow>
+      <relcell/>
+
+      <relcell>
+        <topicref href="Physicalsecuritytask.dita"/>
+
+        <topicref href="VPNTask.dita"/>
+
+        <topicref href="Incidentresponsetask.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="DataClassificationReference.dita"/>
+      </relcell>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="DataStewardsConcept.dita"/>
+
+        <topicref href="DataTrusteesConcept.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="ProtectedHealthTask.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="DataClassificationReference.dita"/>
+
+        <topicref href="De-identifyreference.dita"/>
+      </relcell>
+    </relrow>
+  </reltable>
+</map>
