@@ -65,6 +65,8 @@
 
   <topicref href="DataSecurityTrainingTask" type="task">
 <topicref href="DataSecurityTrainingConcept" type="concept"/>
+
+<topicref href="reltable.ditamap" type="reltable"/>
 </topicref>
 
   <topicref href="DataBreachTask" type="task">
