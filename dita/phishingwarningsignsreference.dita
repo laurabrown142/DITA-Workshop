@@ -4,8 +4,8 @@
 <reference id="phishingwarningsignsreference">
   <title>Phishing Warning Signs</title>
 
-  <shortdesc>This table provides information on what warning signs to look for
-  that mean an email may be a scam.</shortdesc>
+  <shortdesc>Information on what warning signs to look for that mean an email
+  may be a scam.</shortdesc>
 
   <refbody>
     <section><simpletable>
