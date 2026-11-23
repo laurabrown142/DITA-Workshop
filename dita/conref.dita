@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="conref">
+  <taskbody>
+    <steps>
+      <step id="help_desk">
+        <cmd>For help, contact the NC State Help Desk through the IT Service
+        Portal</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
