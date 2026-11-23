@@ -57,4 +57,25 @@ you into clicking a damaging link or providing personal or university informatio
   <glossterm><Secure Wifi/glossterm>
 <glossdef>A wireless neetword that encodes the information sent between your device and the network so that others are unable to read it. NC Stat'es version of a secure netowrk is eduroam.</glossdef>
 </glossentry>
+
+<glossentry id="Unity ID">
+  <glossterm><Unity ID/glossterm>
+<glossdef>The username for accessing NC State University accounts and resources, including: MyPack Portal (Human Resources, Student Information System, Financial System), Google Workspace (Gmail, Calendar, Docs, Sheets, Slides, Sites, and much more), and Wireless Network Access Software Licensing </glossdef>
+</glossentry>
+
+<glossentry id="Data Stewards">
+  <glossterm><Data Stewards/glossterm>
+<glossdef>Data stewards are appointed by data trustees to oversee the data governance of large logical groupings of data based on the various types or functions of university operations. They ensure that appropriate data governance coverage exists over university data at NC StateData stewards are responsible and accountable for the confidentiality, integrity and availability of university data categories and elements within their assigned data domain or subject area.</glossdef>
+</glossentry>
+
+<glossentry id="Data Trustees">
+  <glossterm><Data Trustees/glossterm>
+<glossdef>Data trustees are delegated by the Chancellor, carrying the authority and responsibility for the management and protection of University Data that are related to the university functions managed and administered by the units and/or personnel who report to the data trustees.</glossdef>
+</glossentry>
+
+<glossentry id="VPN">
+  <glossterm><Virtual Private Network (VPN)/glossterm>
+<glossdef>A Virtual Private Network (VPN) is a secured private network connection built on top of a public network like the internet. This means your ISP (internet service provider) will not be able to sell your entire browsing history to the highest bidder.</glossdef>
+</glossentry>
+
 </glossgroup>
