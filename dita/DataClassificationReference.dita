@@ -86,4 +86,11 @@
 
     <section><title/><p/></section>
   </refbody>
+<related-links>
+      <link format="html"
+            href="https://cybersecurity.ncsu.edu/data-management/data-management-framework/"
+            scope="external">
+        <linktext>Data Management Framework</linktext>
+      </link>
+    </related-links>
 </reference>
