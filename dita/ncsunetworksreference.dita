@@ -4,8 +4,8 @@
 <reference id="ncsunetworksreference">
   <title>NC State Wireless Networks</title>
 
-  <shortdesc>This table provides information on NC State's three wireless
-  networks and who should use each one.</shortdesc>
+  <shortdesc>Information on NC State's three wireless networks and who should
+  use each one.</shortdesc>
 
   <refbody>
     <simpletable>
@@ -42,7 +42,11 @@
         <stentry>Campus visitors</stentry>
       </strow>
     </simpletable>
-
-    <section/>
   </refbody>
+
+  <related-links format="html" scope="external">
+    <link href="https://wifi.ncsu.edu">
+      <linktext>NC State Wireless Network Access</linktext>
+    </link>
+  </related-links>
 </reference>
