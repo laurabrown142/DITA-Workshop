@@ -22,4 +22,11 @@
         <li>Android</li>
       </ul></steps-informal>
   </taskbody>
+<related-links>
+    <link format="html"
+          href="https://ncsu.service-now.com/kb_view.do?sysparm_article=KB0021965"
+          scope="external">
+      <linktext>NC State VPN FAQ</linktext>
+    </link>
+  </related-links>
 </task>
