@@ -4,8 +4,8 @@
 <reference id="duomethodsreference">
   <title>Duo Authentication Methods</title>
 
-  <shortdesc>This table provides information on the ways you can confirm your
-  identity with Duo.</shortdesc>
+  <shortdesc>Information on the ways you can confirm your identity with
+  Duo.</shortdesc>
 
   <refbody>
     <section><simpletable>
