@@ -2,31 +2,20 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
 "generalTask.dtd">
 <task id="DataSecurityTrainingTask">
- <title>How to access NC State Data Security Training</title>
+ <title>NC State Data Security Training</title>
 
   <taskbody>
-    <steps>
-      <step>
-         If you are required to complete Data Security training, you should already be registered and can access training as described below or as seen here. 
-
-        <info>Note: New employees may need to register.</info>
-      </step>
-
-      <step>
-        Log in to REPORTER with your unity ID and password.
-      </step>
-
-      <step>
-        Select the Courses and Events tile on your dashboard.
-      </step>
-
-      <step>
-        Find 2026-2027 NC State Data Security Training in the list of courses.
-      </step>
-
-      <step>
-        Click Access Online Content to open the online course. A new tab should open directing you to the online course content -- if a tab does not open, please check your popup blocker settings
-      </step>
-    </steps>
+    <steps-informal><p>The university’s annual Data Security Training is an
+    easy way for employees to learn to identify and prevent cyberattacks. All
+    employees, including student employees and unpaid appointments, must
+    complete the training before Friday, Jan. 31, 2025.</p></steps-informal>
   </taskbody>
+
+  <related-links>
+    <link format="html"
+          href="https://support.reporter.ncsu.edu/home/get-help/login-help/"
+          scope="external">
+      <linktext>REPORTER Login Help</linktext>
+    </link>
+  </related-links>
 </task>
