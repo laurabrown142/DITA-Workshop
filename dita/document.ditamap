@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+en<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
 "map.dtd">
 <map>
@@ -68,6 +68,6 @@
 </topicref>
 
   <topicref href="DataBreachTask.dita" type="task">
-    <topicref href="DataClassifcationReference.dita" type="task"/>
+    <topicref href="DataClassifcationReference.dita" type="reference"/>
   </topicref>
 </map>
