@@ -4,32 +4,30 @@
 <map>
   <title>Cybersecurity for NC State Staff</title>
 
-  <topicref href="index.dita">
-    <topicref href="enrollduotask.dita"/>
+  <topicref href="mfaconcept.dita" type="concept">
+   <topicref href="enrollduotask.dita" type="task"/>
 
-    <topicref href="unexpectedduopushtask.dita"/>
-
-    <topicref href="duomethodsreference.dita"/>
+    <topicref href="unexpectedduopushtask.dita" type="task"/>
+   <topicref href="duomethodsreference.dita" type="reference"/>
   </topicref>
 
-  <topicref href="phishingconcept.dita">
-    <topicref href="checklinkstask.dita"/>
+  <topicref href="phishingconcept.dita" type="concept">
+   <topicref href="checklinkstask.dita" type="task"/>
 
-    <topicref href="reportphishingtask.dita"/>
+  <topicref href="reportphishingtask.dita" type="task"/>
 
-    <topicref href="phishingwarningsignsreference.dita"/>
+   <topicref href="phishingwarningsignsreference.dita" type="reference"/>
   </topicref>
 
-  <topicref href="securewificoncept.dita">
-    <topicref href="enrolleduroamtask.dita"/>
+  <topicref href="securewificoncept.dita" type="concept">
+    <topicref href="enrolleduroamtask.dita" type="task"/>
 
-    <topicref href="ncsunetworksreference.dita"/>
+ <topicref href="ncsunetworksreference.dita" type="reference"/>
   </topicref>
 
-  <topicref href="softwareupdatesconcept.dita">
-    <topicref href="installupdatestask.dita"/>
-
-    <topicref href="wheretoupdatereference.dita"/>
+ <topicref href="softwareupdatesconcept.dita" type="concept">
+   <topicref href="installupdatestask.dita" type="task"/>
+   <topicref href="wheretoupdatereference.dita" type="reference"/>
   </topicref>
  <topicref href="Strongpasswordtask.dita" type="task">
     <topicref href="Strongpasswordconcept.dita" type="concept"/>
@@ -70,4 +68,5 @@
   <topicref href="DataBreachTask.dita" type="task">
     <topicref href="DataClassificationReference.dita" type="reference"/>
   </topicref>
+<topicref href="reltable.ditamap" format="ditamap"/>
 </map>
