@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
-"task.dtd">
+"generalTask.dtd">
 <task id="AIthreat">
   <title>Recommendations when it comes to using AI</title>
 
   <taskbody>
     <steps>
       <step>
-        <cmd>Do not share confidentail information with AI systems.</cmd>
+        <cmd>Do not share confidential information with AI systems.</cmd>
       </step>
 
       <step>
