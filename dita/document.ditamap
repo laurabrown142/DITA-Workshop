@@ -68,6 +68,6 @@ en<?xml version="1.0" encoding="UTF-8"?>
 </topicref>
 
   <topicref href="DataBreachTask.dita" type="task">
-    <topicref href="DataClassifcationReference.dita" type="reference"/>
+    <topicref href="DataClassificationReference.dita" type="reference"/>
   </topicref>
 </map>
