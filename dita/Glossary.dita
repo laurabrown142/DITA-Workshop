@@ -2,7 +2,7 @@
 <!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN"
 "glossgroup.dtd">
 <glossgroup id="Gloss">
-  <title/>
+  <title>Glossary</title>
 
   <glossentry id="MFA">
     <glossterm>MultiFactor Authentication</glossterm>
