@@ -28,7 +28,8 @@
       <li><xref href="deviceslandingconcept.dita">Securing your devices and
       connections</xref></li>
 
-      <li>Handling sensitive data</li>
+      <li><xref href="sensitivedatalanding.dita">Handling sensitive
+      data</xref></li>
 
       <li>Incident Response</li>
     </ul>
