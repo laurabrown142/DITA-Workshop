@@ -51,25 +51,23 @@
     <topicref href="De-identifyreference.dita" type="reference"/>
   </topicref>
 
-<topicref href="VPNTask" type="task">
-    <topicref href="VPNConcept" type="concept"/>
+<topicref href="VPNTask.dita" type="task">
+    <topicref href="VPNConcept.dita" type="concept"/>
   </topicref>
 
-  <topicref href="DataClassificationTask" type="task">
-    <topicref href="DataTrusteesConcept" type="concept"/>
+<topicref href="DataTrusteesConcept.dita" type="concept"/>
 
-    <topicref href="DataStewardsConcept" type="concept"/>
+<topicref href="DataStewardsConcept.dita" type="concept"/>
 
-    <topicref href="DataClassificationReference" type="reference"/>
-  </topicref>
+<topicref href="DataClassificationReference.dita" type="reference"/>
 
-  <topicref href="DataSecurityTrainingTask" type="task">
-<topicref href="DataSecurityTrainingConcept" type="concept"/>
+<topicref href="DataSecurityTrainingTask.dita" type="task">
 
-<topicref href="reltable.ditamap" type="reltable"/>
+<topicref href="DataSecurityTrainingConcept.dita" type="concept"/>
+
 </topicref>
 
-  <topicref href="DataBreachTask" type="task">
-    <topicref href="DataClassifcationReference" type="task"/>
+  <topicref href="DataBreachTask.dita" type="task">
+    <topicref href="DataClassifcationReference.dita" type="task"/>
   </topicref>
 </map>
