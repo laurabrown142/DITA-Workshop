@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
 "generalTask.dtd">
-<task id="Physical Sec">
+<task id="PhysicalSec">
   <title>Procedure for Protecting against Physical Security Issues</title>
 
   <shortdesc>A list of policies to follow in order to protect your hardware
