@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="threatslandingconcept">
+  <title>Recognizing Threats</title>
+
+  <shortdesc>Learn how to recognize common scams and online
+  threats.</shortdesc>
+
+  <conbody>
+    <p>Recognizing threats is important because everyone is a potential target
+    for a scam. Spotting a threat early is the best way to stop this from
+    happening to you.The topics in this section show you what to watch for.
+    </p>
+
+    <ul>
+      <li>Phishing: how to avoid scams that try to trick you into clicking
+      harmful links or giving away personal information.</li>
+
+      <li>AI threats: how to identify scams that use AI, like realistic fake
+      voice calls from loved ones.</li>
+
+      <li>Online safety: how to protect yourself online and on social
+      media.</li>
+    </ul>
+  </conbody>
+</concept>
