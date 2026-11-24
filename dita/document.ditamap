@@ -4,7 +4,7 @@
 <map>
   <title>Cybersecurity for NC State Staff</title>
 
-  <topicref href="mfaconcept.dita">
+  <topicref href="index.dita">
     <topicref href="enrollduotask.dita"/>
 
     <topicref href="unexpectedduopushtask.dita"/>
