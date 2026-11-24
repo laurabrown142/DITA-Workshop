@@ -2,9 +2,28 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
 "concept.dtd">
 <concept id="deviceslandingconcept">
-  <title/>
+  <title>Securing Your Devices and Connections</title>
+
+  <shortdesc>Learn how to keep your devices and network connections secure.
+  The topics in this section show you how to protect each one.</shortdesc>
 
   <conbody>
-    <p/>
+    <p>Devices and network connections are how everyone at NC State reaches
+    university services, so keeping them secure protects your information as
+    well as the university's.</p>
+
+    <ul>
+      <li>Software updates: how installing updates quickly keeps your devices
+      safe.</li>
+
+      <li>Secure wireless network: how to choose a secure network for
+      university work.</li>
+
+      <li>VPN: how to securely connect to campus resources even when you're
+      not on campus.</li>
+
+      <li>Physical security: how to protect your devices from theft and
+      unauthorized access.</li>
+    </ul>
   </conbody>
 </concept>
