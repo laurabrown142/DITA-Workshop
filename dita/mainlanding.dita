@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="mainlanding.dita">
+  <title>Cybersecurity @ NC State</title>
+
+  <shortdesc>Learn strategies to keep you and the rest of NC States campus
+  secure</shortdesc>
+
+  <conbody>
+    <p>At NC State, cybersecurity is a team effort. Well-informed university
+    community members are the most effective weapons against cybersecurity
+    threats. Members who understand and accept their roles and
+    responsibilities to protect digital assets are more vigilant against those
+    threats and more likely to take appropriate steps to thwart them. This
+    website will be split into four modules explaining how to keep you and the
+    Pack safe.</p>
+
+    <p>These modules are:</p>
+
+    <ul>
+      <li>Protecting your account (Unity ID, Multi-Factor Authentication, and
+      strong passwords)</li>
+
+      <li><xref href="threatslandingconcept.dita">Recognizing
+      threats</xref></li>
+
+      <li><xref href="deviceslandingconcept.dita">Securing your devices and
+      connections</xref></li>
+
+      <li>Handling sensitive data</li>
+
+      <li>Incident Response</li>
+    </ul>
+  </conbody>
+</concept>
