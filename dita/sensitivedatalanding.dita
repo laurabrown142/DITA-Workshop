@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="sensitivedatalanding">
+  <title>Handling Sensitive Data</title>
+
+  <shortdesc>Learn how to handle sensitive data. The topics in this section
+  show required steps in protecting classified data.</shortdesc>
+
+  <conbody>
+    <p>Keeping your data safe isn’t a one-size-fits-all solution. This module
+    teaches users what sensitive data is and how to protect it.</p>
+
+    <ul>
+      <li><xref href="DataSecurityTrainingTask.dita">Data Security
+      Training</xref></li>
+
+      <li><xref href="dataclassificationsconcept.dita">Data
+      Classifications</xref></li>
+
+      <li><xref href="ProtectedHealthTask.dita">Protected Health
+      Information</xref></li>
+
+      <li><xref href="DataStewardsConcept.dita">Data Stewards</xref></li>
+
+      <li><xref href="DataTrusteesConcept.dita">Data Trustees</xref></li>
+
+      <li><xref href="De-identifyreference.dita">De-identifying
+      data</xref></li>
+    </ul>
+  </conbody>
+</concept>
