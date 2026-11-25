@@ -22,6 +22,11 @@
 
       <step>
         <cmd>Compare the address to the sender and the text in the link.</cmd>
+
+        <info><image href="Images/hoverlink2.png">
+            <alt>Link address shown in the bottom corner of the browser while
+            hovering over a link.</alt>
+          </image></info>
       </step>
 
       <step>
