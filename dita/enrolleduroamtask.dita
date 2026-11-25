@@ -27,6 +27,10 @@
 
       <step>
         <cmd>Connect to eduroam in your device's WiFi settings.</cmd>
+
+        <info audience="staff">eduroam also works at other participating
+        universities, so you can connect at conferences without the hassle of
+        asking for guest access.</info>
       </step>
     </steps>
 
