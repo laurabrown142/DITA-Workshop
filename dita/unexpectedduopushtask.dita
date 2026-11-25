@@ -32,7 +32,7 @@
         systems, so change your password right away.</info>
       </step>
 
-      <step>
+      <step conref="conref.dita#conref/help_desk">
         <cmd>Contact the NC State OIT Help Desk.</cmd>
 
         <info>For help, contact the NC State Help Desk through the IT Service
