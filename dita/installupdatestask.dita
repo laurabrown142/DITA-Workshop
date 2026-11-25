@@ -28,6 +28,11 @@
 
       <step>
         <cmd>Install any available updates that were found.</cmd>
+
+        <info><image href="Images/software%20update.png">
+            <alt>Windows Update settings page with the Install all
+            button.</alt>
+          </image></info>
       </step>
 
       <step>
