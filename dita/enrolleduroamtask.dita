@@ -16,6 +16,11 @@
       <step>
         <cmd>On your device, go to wifi.ncsu.edu/eduroam and download NC
         State's configuration tool.</cmd>
+
+        <info><image href="Images/configtool.png">
+            <alt>NC State's eduroam page with the link to download the
+            configuration tool.</alt>
+          </image></info>
       </step>
 
       <step>
