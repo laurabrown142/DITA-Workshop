@@ -1,28 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
 "generalTask.dtd">
-<task id="VPNHub">
+<task id="VPNTask">
   <title>Connecting to the NC State VPN Hub</title>
 
   <taskbody>
-    <steps-informal><p>NC State provides a virtual private network (VPN)
-    connection through the Cisco Secure Client software. A VPN connection is
-    typically required when an individual may access sensitive information or
-    on-campus resources from an off-campus connection. To download and install
-    Cisco Secure Client to your computer, please select your operating system
-    or device below.</p><ul>
-        <li>Windows 10 or 11</li>
+    <p>NC State provides a virtual private network (VPN) connection through
+    the Cisco Secure Client software. A VPN connection is typically required
+    when an individual may access sensitive information or on-campus resources
+    from an off-campus connection. To download and install Cisco Secure Client
+    to your computer, please select your operating system or device below.</p>
 
-        <li>macOS 11 or Newer</li>
+    <ul>
+      <section audience="windows">
+        <title>Windows 10 or 11</title>
 
-        <li>Linux (via OpenConnect)</li>
+        <steps>
+          <step>Download the Cisco Secure Client 5.X installer.</step>
 
-        <li>ChromeOS</li>
+          <step>Double click on the downloaded file to begin the
+          installation.</step>
 
-        <li>Android</li>
-      </ul></steps-informal>
+          <step>Accept the End User License Agreement.</step>
+
+          <step>Click on the Install button.</step>
+
+          <step>If you are prompted, allow the application to make changes on
+          your computer.</step>
+        </steps>
+      </section>
+
+      <section audience="MacOS">
+        <title>MacOS</title>
+
+        <steps>
+          <step>Download the Secure Client 5.X installer for macOS</step>
+
+          <step>Double-click to open the
+          NCSU-Campus-Cisco_Secure_AnyConnect-5.1.1.42.pkg file.</step>
+
+          <step>Double-click the Cisco Secure Client.pkg icon.</step>
+
+          <step>Click the Continue button on the Introduction and License
+          Agreement screens.</step>
+
+          <step>Click Agree to the terms of the software license
+          agreement.</step>
+
+          <step>In the Destination Select window, choose the disk where you
+          want to install the software if prompted, and click Continue.</step>
+
+          <step>In the Installation Type window, UNCHECK EVERYTHING except
+          AnyConnect VPN, click Continue and click Install.</step>
+        </steps>
+      </section>
+
+      <section audience="Linux">
+        <title>Linux</title>
+
+        <p>Most users running Linux have better success connecting with the NC
+        State VPN utilizing the OpenConnect client instead of the client
+        packages provided by Cisco. Below are the instructions last tested for
+        Ubuntu 22.04 running Gnome. You will need to adjust the package
+        manager commands or appropriate GUI for your Linux distro and
+        preferences. OIT does not provide advanced troubleshooting for Linux
+        and every Linux distro out there.</p>
+
+        <subtitle>Install OpenConnect Client</subtitle>
+
+        <steps>
+          <step>Open a Terminal window.</step>
+
+          <step>Enter this command: sudo apt-get -y install openconnect
+          network-manager-openconnect network-manager-openconnect-gnome</step>
+
+          <step>Enter your administrator password when prompted.</step>
+
+          <step>Wait for the packages to finish installing.</step>
+        </steps>
+
+        <subtitle>Set Up the NC State VPN Connection</subtitle>
+
+        <steps>
+          <step>Select the Network icon in the upper-right.</step>
+
+          <step>Open the Network Settings.</step>
+
+          <step>Select the + icon next to the VPN Heading.</step>
+
+          <step>Select Multi-Protocol VPN Client, and change the following
+          settings. All other settings can be left as provided.</step>
+
+          <substeps>
+            <substep>Name: NC State VPN (or any other meaningful
+            name)</substep>
+
+            <substep>VPN Protocol: Cisco AnyConnect or openconnect</substep>
+
+            <substep>Gateway: vpn.ncsu.edu</substep>
+          </substeps>
+
+          <step>Select Add in the top right.</step>
+        </steps>
+
+        <subtitle>Connect to the NC State VPN</subtitle>
+
+        <steps>
+          <step>From the Network Icon in the upper-right, select VPN
+          OFF.</step>
+
+          <step>Select Connect.</step>
+
+          <step>Choose the appropriate VPN Group.</step>
+
+          <step>Enter your Unity ID as the username.</step>
+
+          <step>Enter your Unity ID password in the first Password
+          field.</step>
+
+          <step>In the Second Password field, use one of the methods below to
+          sign in with Duo.</step>
+
+          <substeps>
+            <substep>push to receive a Duo Push. Be sure to check the Duo
+            Mobile app for the push. Note: This is the default when this field
+            is left empty.</substep>
+
+            <substep>A code from the Duo Mobile app.</substep>
+
+            <substep>Get a Duo code when you only have a Security Key/U2F
+            Token.</substep>
+          </substeps>
+        </steps>
+      </section>
+
+      <section audience="ChromeOS"/>
+
+      <title>ChromeOS</title>
+
+      <subtitle>Download Cisco AnyConnect</subtitle>
+
+      <steps>
+        <step>Open the Chrome Browser.</step>
+
+        <step>Navigate to the Chrome Store.</step>
+
+        <step>In the left sidebar menu, type AnyConnect in the search
+        field.</step>
+
+        <step>Select the Apps radio button and see the Cisco AnyConnect VPN
+        Client listed.</step>
+
+        <step>Click [+Add to Chrome].</step>
+      </steps>
+
+      <subtitle>Configure the VPN</subtitle>
+
+      <steps>
+        <step>Click on the App Launcher button to view installed
+        Applications.</step>
+
+        <step>Click on the AnyConnect icon to start the configuration
+        process.</step>
+
+        <step>In the AnyConnect window, select [+Add New Connection].</step>
+
+        <step>In the Name field, enter NCSU VPN.</step>
+
+        <step>In the Server Address field, enter vpn.ncsu.edu.</step>
+
+        <step>Click [Save Changes] and exit the application window.</step>
+      </steps>
+
+      <subtitle>Connect to the NCSU VPN using AnyConnect</subtitle>
+
+      <steps>
+        <step>Click on the Status Menu at the bottom right corner of your
+        screen.</step>
+
+        <step>Click on the key icon [Show VPN Settings] -it will be set to
+        Off.</step>
+
+        <step>Click [NCSU VPN (user)].</step>
+
+        <step>From the Group drop-down, select GROUP 2-Student (or
+        1-Faculty-and-Staff).</step>
+
+        <substeps>
+          <substep>Note that the Mobility Print printers are not available in
+          full tunnel (FT) VPN.</substep>
+
+          <substep>Enter your UNITY ID and password.</substep>
+
+          <substep>In the Second Password field, type push, SMS, or passcode
+          to authenticate.</substep>
+        </substeps>
+      </steps>
+    </ul>
   </taskbody>
-<related-links>
+
+  <related-links>
     <link format="html"
           href="https://ncsu.service-now.com/kb_view.do?sysparm_article=KB0021965"
           scope="external">
@@ -30,3 +207,4 @@
     </link>
   </related-links>
 </task>
+
