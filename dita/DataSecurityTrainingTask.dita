@@ -2,13 +2,52 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
 "generalTask.dtd">
 <task id="DataSecurityTrainingTask">
- <title>NC State Data Security Training</title>
+  <title>NC State Data Security Training</title>
+
+  <shortdesc/>
 
   <taskbody>
-    <steps-informal><p>The university’s annual Data Security Training is an
-    easy way for employees to learn to identify and prevent cyberattacks. All
-    employees, including student employees and unpaid appointments, must
-    complete the training before Friday, Jan. 31, 2025.</p></steps-informal>
+    <context>The university’s annual Data Security Training is an easy way for
+    employees to learn to identify and prevent cyberattacks. All employees,
+    including student employees and unpaid appointments, must complete the
+    training before Friday, Jan. 31, 2025.</context>
+
+    <steps>
+      <step>
+        <cmd>Go to Reporter and select Unity ID Login.</cmd>
+      </step>
+
+      <step>
+        <cmd>Log in with your Unity ID and password.</cmd>
+      </step>
+
+      <step>
+        <cmd>Select Upcoming Events on the Courses and Events tile.</cmd>
+      </step>
+
+      <step>
+        <cmd>Select Access Online Content under the most recent NC State Data
+        Security Training.</cmd>
+      </step>
+
+      <step>
+        <cmd>Select one of the Data Security Training modules.</cmd>
+      </step>
+
+      <step>
+        <cmd>Watch the video in its entirety and answer all of the
+        questions.</cmd>
+      </step>
+    </steps>
+
+    <result>After you have watched the entire video and answered all of the
+    questions, the course Moodle site should show that the course is
+    completed. Please note that it can take up to 24 hours for the course
+    completion certificate to be emailed to you. You can check the course
+    completion status in Reporter by following the instructions at <xref
+    href="https://ncsu.service-now.com/sp?id=kb_article_view&amp;sysparm_article=KB0015452"
+    scope="external">Have I completed the Data Security
+    Training?</xref></result>
   </taskbody>
 
   <related-links>
