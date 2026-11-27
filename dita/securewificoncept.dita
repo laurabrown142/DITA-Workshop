@@ -24,5 +24,11 @@
     State VPN with two-factor authentication to reach certain campus resources
     while off campus, such as WolfPrint and campus file
     services.</p></section>
+
+    <section audeince ="faculty"> <title>Working Off Campus</title> <p>While 
+    working from a seperate location always ensure that the Wifi is secure. If 
+    you must access sensitive work applications remotely, use a VPN. Additionally, 
+    always use encrypted devices since small devices are highly succeptable to loss or theft.</p>
+  </section>
   </conbody>
 </concept>
