@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="incident">
+  <title>Responding to Incidents</title>
+
+  <conbody>
+    <p>Understanding how to respond to an incident if it occurs will help keep
+    your data and the schools data as safe as possible in the event of a
+    breach.</p>
+
+    <ul>
+      <li><xref href="Incidentresponsetask.dita">Incicent Response: What to do
+      in the event of an incident</xref></li>
+
+      <li><xref href="Databreachtask.dita">Data Breach: How to deal with a
+      data breach</xref></li>
+    </ul>
+  </conbody>
+</concept>

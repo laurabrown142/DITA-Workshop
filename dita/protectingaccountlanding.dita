@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="Protectaccount">
+  <title>Protecting Your Account</title>
+
+  <conbody>
+    <p>Being sure that your account is secure is a top priority in keeping
+    your information safe. This module teaches users the best ways to protect
+    your account.</p>
+
+    <ul>
+      <li><xref href="UnityIdConcept.dita">Understanding Unity ID</xref></li>
+
+      <li><xref href="mfaconcept.dita">Multi-factor Authentication: How
+      multiple avenues keeps your data secure</xref></li>
+
+      <li><xref href="Strongpasswordtask.dita">Strong Password: How to create
+      a strong password</xref></li>
+    </ul>
+  </conbody>
+</concept>
