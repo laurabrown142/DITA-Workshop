@@ -3,7 +3,7 @@
 "generalTask.dtd">
 <task id="AIthreat">
   <title>Recommendations when it comes to using AI</title>
-
+<shortdesc>A procedure for using AI in order to maintain confidentiality and accuracy.</shortdesc>
   <taskbody>
     <steps>
       <step>
