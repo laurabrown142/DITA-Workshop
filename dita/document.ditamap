@@ -39,8 +39,8 @@
     <topicref href="Physicalsecurityconcept.dita" type="concept"/>
   </topicref>
 
-  <topicref href="incidentresponsetask.dita" type="task">
-    <topicref href="incidentresponseconcept.dita" type="concept"/>
+  <topicref href="Incidentresponsetask.dita" type="task">
+    <topicref href="Incidentresponseconcept.dita" type="concept"/>
   </topicref>
 
   <topicref href="AIthreatstask.dita" type="task">
